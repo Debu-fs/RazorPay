@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">razorpay</string>
+    <string name="title_activity_main">razorpay</string>
+    <string name="package_name">com.amaze.razorpay</string>
+    <string name="custom_url_scheme">com.amaze.razorpay</string>
+</resources>
